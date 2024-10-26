@@ -1,6 +1,4 @@
-Here’s your text in proper Markdown format:
 
-```markdown
 # Online Learning Portal
 
 This repository is for an **Online Learning Portal** project, aimed at providing a user-friendly platform for online education. The frontend has been built with HTML, CSS, and JavaScript, and we're looking for collaborators to help expand the project.
@@ -33,6 +31,3 @@ If you’re interested in collaborating, feel free to fork the repository and su
 ## Contributing
 
 We welcome contributions! Please feel free to fork the repository and submit pull requests.
-```
-
-This version uses Markdown syntax for headings, lists, code blocks, and bold text, ensuring it’s readable and well-structured.
